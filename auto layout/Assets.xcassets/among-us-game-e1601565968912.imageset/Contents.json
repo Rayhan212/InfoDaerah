@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "among-us-game-e1601565968912.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "among-us-game-e1601565968912@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "among-us-game-e1601565968912@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
